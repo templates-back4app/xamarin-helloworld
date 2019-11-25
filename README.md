@@ -1,6 +1,6 @@
 # xamarin-helloworld
 
-In this repository you will find an example app working with Back4App + Javascript SDK.
+In this repository you will find an example app working with Back4App + .NET SDK.
 
 ### Step 1 - Back4App
 
